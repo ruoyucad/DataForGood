@@ -1,8 +1,15 @@
 # DataForGood Walkthrough
 
+In this walkthrough, we will be working with data collected from Kaggle's second annual Machine Learning and Data Science Survey. 
+The objective of our analysis is to build a predictive model to help us understand the technical differentiators between 
+the Data Scientist, Data Analyst and Data Engineer role. 
+
+
+More information about the dataset can be found [here.](https://www.kaggle.com/kaggle/kaggle-survey-2018/home)
+
 ## Set up Instructions 
 
-Clone this repository. 
+Clone this repository.
 
 ### Install Dependencies
 
