@@ -9,11 +9,11 @@ More information about the dataset can be found [here.](https://www.kaggle.com/k
 
 ## Set up Instructions 
 
-Clone this repository.
+Clone this repository. 
 
 ### Install Dependencies
 
-To install all required packages, run the following terminal command: 
+To install all required packages, run the following terminal command in the same directory: 
 
 ```pip install -r requirements.txt```
 
