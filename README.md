@@ -19,13 +19,13 @@ If you don't have one already, create a GitHub account! GitHub is a platform for
 
 Plotly is an online platform for hosting graphs and visualizations. We will be showing you how to use it during the walkthrough. Please have an account created prior to the walkthrough.
 
-You can create your account [here.] (https://plot.ly/feed/#/)
+You can create your account [here.](https://plot.ly/feed/#/)
 
 **Accessing this Repository**
 
 There are several ways you can access this repository. 
 
-1. Clone via terminal. [Click here for instructions.] (https://help.github.com/articles/cloning-a-repository/)
+1. Clone via terminal. [Click here for instructions.](https://help.github.com/articles/cloning-a-repository/)
 
 2. Download as a ZIP file. Click the green "Clone or download" button in the top right hand corner. Select the option "Download ZIP" which will download the contents of this repository as a ZIP file.
 
