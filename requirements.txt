@@ -1,0 +1,7 @@
+seaborn==0.8.1
+pyecharts==0.5.11
+matplotlib==2.0.2
+numpy==1.13.1
+pandas==0.20.3
+scikit_learn==0.20.2
+plotly == 2.5.1
