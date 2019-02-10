@@ -1,5 +1,7 @@
 # DataForGood Walkthrough
 
+**Note:** The instructions below refer to "terminal" as the interface for giving commands to your computer. For Mac/Linux users, this would be the terminal. For windows users, this would be Windows Command Prompt.
+
 ## Objective
 
 In this walkthrough, we will be working with data collected from Kaggle's second annual Machine Learning and Data Science Survey. 
